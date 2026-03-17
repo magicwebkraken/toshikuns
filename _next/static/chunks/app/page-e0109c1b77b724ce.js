@@ -488,7 +488,7 @@
                           }),
                           (0, r.jsx)("span", {
                             className: "tokenomics__card-value",
-                            children: "LP BURNT",
+                            children: "LP LOCKED",
                           }),
                         ],
                       }),
