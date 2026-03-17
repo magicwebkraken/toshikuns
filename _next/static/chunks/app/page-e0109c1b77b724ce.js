@@ -150,7 +150,7 @@
                         className: "hero__social",
                         children: [
                           (0, r.jsx)("a", {
-                            href: "https://x.com/basetoshikun",
+                            href: "https://x.com/toshikunbaseX",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className: "hero__social-item",
@@ -163,7 +163,7 @@
                             }),
                           }),
                           (0, r.jsx)("a", {
-                            href: "https://t.me/basetoshikun",
+                            href: "https://t.me/toshikunbase",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className: "hero__social-item",
@@ -232,7 +232,7 @@
           children: (0, r.jsx)("div", {
             className: "header__container",
             children: (0, r.jsx)("a", {
-              href: "https://t.me/basetoshikun",
+              href: "https://t.me/toshikunbase",
               target: "_blank",
               rel: "noopener noreferrer",
               className: "header__button",
@@ -713,7 +713,7 @@
                   className: "footer__social",
                   children: [
                     (0, r.jsx)("a", {
-                      href: "https://x.com/basetoshikun",
+                      href: "https://x.com/toshikunbaseX",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       className: "footer__social-item",
@@ -726,7 +726,7 @@
                       }),
                     }),
                     (0, r.jsx)("a", {
-                      href: "https://t.me/basetoshikun",
+                      href: "https://t.me/toshikunbase",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       className: "footer__social-item",
