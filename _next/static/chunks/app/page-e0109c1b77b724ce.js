@@ -176,7 +176,7 @@
                             }),
                           }),
                           (0, r.jsx)("a", {
-                            href: "https://dexscreener.com/base/0xcomingsoon",
+                            href: "https://dexscreener.com/base/0x334EaCFe79091797d34a4D7E6AfE25d83aB3C3a4",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className: "hero__social-item",
@@ -189,7 +189,7 @@
                             }),
                           }),
                           (0, r.jsx)("a", {
-                            href: "https://www.dextools.io/app/en/base/pair-explorer/0xcomingsoon",
+                            href: "https://www.dextools.io/app/en/base/pair-explorer/0x334EaCFe79091797d34a4D7E6AfE25d83aB3C3a4",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className: "hero__social-item",
@@ -414,7 +414,7 @@
       }
       function d() {
         let [e, s] = (0, t.useState)(!1),
-          a = "0xcomingsoon",
+          a = "0x334EaCFe79091797d34a4D7E6AfE25d83aB3C3a4",
           i = async () => {
             try {
               await navigator.clipboard.writeText(a),
@@ -739,7 +739,7 @@
                       }),
                     }),
                     (0, r.jsx)("a", {
-                      href: "https://dexscreener.com/base/0xcomingsoon",
+                      href: "https://dexscreener.com/base/0x334EaCFe79091797d34a4D7E6AfE25d83aB3C3a4",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       className: "footer__social-item",
@@ -752,7 +752,7 @@
                       }),
                     }),
                     (0, r.jsx)("a", {
-                      href: "https://www.dextools.io/app/en/base/pair-explorer/0xcomingsoon",
+                      href: "https://www.dextools.io/app/en/base/pair-explorer/0x334EaCFe79091797d34a4D7E6AfE25d83aB3C3a4",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       className: "footer__social-item",
