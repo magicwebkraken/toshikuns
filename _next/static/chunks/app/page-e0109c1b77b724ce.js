@@ -501,7 +501,7 @@
                           }),
                           (0, r.jsx)("span", {
                             className: "tokenomics__card-value",
-                            children: "10,000,000,000",
+                            children: "1,000,000,000",
                           }),
                         ],
                       }),
